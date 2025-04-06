@@ -1,6 +1,6 @@
 
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Nuwan%20%20Thilakarathna&animation=twinkling&reversal=true&textBg=false"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Nuwan%20Thilakarathna&fontSize=50&animation=twinkling"
   alt="header"/>
 </div>
 
