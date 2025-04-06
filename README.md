@@ -128,7 +128,7 @@
 ---
 
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=twinkling&reversal=true&textBg=false&section=footer"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&reversal=true&textBg=false&section=footer"
   alt="footer" />
 </div>
 
