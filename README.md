@@ -1,3 +1,12 @@
+
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Nuwan%20Thilakarathna%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
+
+
+
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Nuwan Thilakarathna</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
