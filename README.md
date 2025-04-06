@@ -24,6 +24,9 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+
+<br>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
