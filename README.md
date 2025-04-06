@@ -27,6 +27,8 @@
 
 <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
