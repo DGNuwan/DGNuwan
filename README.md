@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **dgnuwanthilakarathna@gmail.com**
   
-- ⚡ Fun fact **Call me as Nuwan**
+- ⚡ Fun fact **Call me as DG**
 
  </td>
 <td width="50%" align="center">
