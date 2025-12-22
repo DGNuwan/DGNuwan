@@ -64,7 +64,16 @@
 
 
 
- </td>
+ 
+
+
+
+
+</tr>
+
+<tr>
+
+</td>
 <td width="40%" >
 
   <img  alt="Coding" width="300" hight="600" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -72,10 +81,9 @@
   
   </td>
 
-
-
-
 </tr>
+
+
 </table>
 
 <br>
