@@ -52,6 +52,18 @@
   
 - ⚡ Fun fact **Call me as DG**
 
+
+
+ </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="300" src="https://tenor.com/xIZvmKDDp5.gif">
+
+  
+  </td>
+
+
+
  </td>
 <td width="50%" align="center">
 
@@ -63,13 +75,6 @@
 
 
 
- </td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://tenor.com/xIZvmKDDp5.gif">
-
-  
-  </td>
 </tr>
 </table>
 
