@@ -55,7 +55,7 @@
 
 
  
-<td width="30%" align="center">
+<td width="20%" align="center">
 
   <img  alt="nuwan" width="300"   src="https://media1.tenor.com/m/BG0qB58l_ecAAAAd/nuwan.gif" >
   
@@ -65,7 +65,7 @@
 
 
  </td>
-<td width="30%" >
+<td width="40%" >
 
   <img align="center" alt="Coding" width="300" hight="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
