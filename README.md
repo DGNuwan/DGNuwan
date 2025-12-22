@@ -57,7 +57,8 @@
  </td>
 <td width="30%" align="center">
 
-  <img alt="Coding" width="300" src="https://tenor.com/xIZvmKDDp5.gif">
+  <img alt="Coding" width="300" >
+  <div class="tenor-gif-embed" data-postid="318957360836378087" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/nuwan-gif-318957360836378087">Nuwan GIF</a>from <a href="https://tenor.com/search/nuwan-gifs">Nuwan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
   
   </td>
