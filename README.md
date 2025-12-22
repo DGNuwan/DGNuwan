@@ -57,7 +57,7 @@
  
 <td width="30%" align="center">
 
-  <img  alt="nuwan" width="300"   src=" [https://tenor.com/view/nuwan-gif-318957360836378087](https://media1.tenor.com/m/BG0qB58l_ecAAAAd/nuwan.gif)" >
+  <img  alt="nuwan" width="300"   src="https://media1.tenor.com/m/BG0qB58l_ecAAAAd/nuwan.gif" >
   
   
   </td>
