@@ -72,12 +72,10 @@
   <img align="center" alt="Coding" width="80%"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
 
-
-
-
+<div align="center">
 
 <img align="center" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="80%">
-
+</div>
 
 ---
 
