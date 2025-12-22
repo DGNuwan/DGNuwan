@@ -40,7 +40,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="40%" align="left">
+<td width="50%" align="left">
   
 - 🌱 I’m currently learning **Flutter**
 
