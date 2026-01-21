@@ -39,7 +39,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<table align="center">
+<table align="center" width="100%">
 <tr border="none">
 <td width="60%" align="left">
   
