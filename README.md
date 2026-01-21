@@ -40,7 +40,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="60%" align="left">
   
 - 🌱 I’m currently learning **Flutter**
 
@@ -55,7 +55,7 @@
 
 
  
-<td width="50%" align="center">
+<td width="40%" align="center">
 
   <img  alt="nuwan" width="100%"   src="https://media1.tenor.com/m/BG0qB58l_ecAAAAd/nuwan.gif" >
   
@@ -127,20 +127,6 @@
 
 ---
 
-<h3 align="center">Trophy</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DGNuwan-ma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
-</p>
-
-        
-
----
 
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&reversal=true&textBg=false&section=footer"
