@@ -128,11 +128,14 @@
 ---
 
 
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&reversal=true&textBg=false&section=footer"
-  alt="footer" />
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&reversal=true&textBg=false&section=footer"
+    alt="footer"
+    width="100%"
+  />
 </div>
-<br>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
