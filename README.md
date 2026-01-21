@@ -134,11 +134,6 @@
 
 
 
-<p align="center">
-
-
-
-
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=DGNuwan-ma&theme=monokai">
     <img 
@@ -148,9 +143,7 @@
     />
   </a>
 </div>
-
-
-</p>        
+        
 
 ---
 
