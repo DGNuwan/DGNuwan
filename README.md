@@ -134,15 +134,10 @@
 
 
 
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=DGNuwan-ma&theme=monokai">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=DGNuwan-ma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
-      alt="GitHub Trophies"
-      width="84%"
-    />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DGNuwan-ma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
+</p>
+
         
 
 ---
