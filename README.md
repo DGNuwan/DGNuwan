@@ -108,9 +108,17 @@
   <br></br>
  
  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGNuwan&show_icons=true&theme=algolia&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DGNuwan&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DGNuwan&theme=react-dark" />
 </div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=DGNuwan&show_icons=true&theme=algolia&hide_border=true" />
+
+</div>
+
+
+
 
    
 </td>
