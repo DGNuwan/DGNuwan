@@ -106,11 +106,10 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DGNuwan&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DGNuwan&theme=dark&hide_border=false" /> 
-
+ 
   <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=DGNuwan&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=DGNuwan&theme=react-dark"/>
 </div>
 </td>
 <td width="50%" align="center">
