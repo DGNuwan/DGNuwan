@@ -108,7 +108,7 @@
   <br></br>
  
   <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=DGNuwan&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=DGNuwan&theme=react-dark"/>
 </div>
 </td>
